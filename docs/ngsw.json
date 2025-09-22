@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1758553636729,
-  "index": "/index.csr.html",
+  "timestamp": 1758554585982,
+  "index": "/Examenparcial/index.csr.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,11 +11,11 @@
         "ignoreVary": true
       },
       "urls": [
-        "/index.csr.html",
-        "/index.html",
-        "/main-M5YQUVOC.js",
-        "/scripts-AO3MKTRD.js",
-        "/styles-7Z2SP6DJ.css"
+        "/Examenparcial/index.csr.html",
+        "/Examenparcial/index.html",
+        "/Examenparcial/main-M5YQUVOC.js",
+        "/Examenparcial/scripts-AO3MKTRD.js",
+        "/Examenparcial/styles-7Z2SP6DJ.css"
       ],
       "patterns": []
     },
@@ -27,45 +27,45 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/template/assets/img/bg-masthead.jpg",
-        "/assets/template/assets/img/portfolio/fullsize/1.jpg",
-        "/assets/template/assets/img/portfolio/fullsize/2.jpg",
-        "/assets/template/assets/img/portfolio/fullsize/3.jpg",
-        "/assets/template/assets/img/portfolio/fullsize/4.jpg",
-        "/assets/template/assets/img/portfolio/fullsize/5.jpg",
-        "/assets/template/assets/img/portfolio/fullsize/6.jpg",
-        "/assets/template/assets/img/portfolio/thumbnails/1.jpg",
-        "/assets/template/assets/img/portfolio/thumbnails/2.jpg",
-        "/assets/template/assets/img/portfolio/thumbnails/3.jpg",
-        "/assets/template/assets/img/portfolio/thumbnails/4.jpg",
-        "/assets/template/assets/img/portfolio/thumbnails/5.jpg",
-        "/assets/template/assets/img/portfolio/thumbnails/6.jpg",
-        "/media/bg-masthead-F66EQKJR.jpg"
+        "/Examenparcial/assets/template/assets/img/bg-masthead.jpg",
+        "/Examenparcial/assets/template/assets/img/portfolio/fullsize/1.jpg",
+        "/Examenparcial/assets/template/assets/img/portfolio/fullsize/2.jpg",
+        "/Examenparcial/assets/template/assets/img/portfolio/fullsize/3.jpg",
+        "/Examenparcial/assets/template/assets/img/portfolio/fullsize/4.jpg",
+        "/Examenparcial/assets/template/assets/img/portfolio/fullsize/5.jpg",
+        "/Examenparcial/assets/template/assets/img/portfolio/fullsize/6.jpg",
+        "/Examenparcial/assets/template/assets/img/portfolio/thumbnails/1.jpg",
+        "/Examenparcial/assets/template/assets/img/portfolio/thumbnails/2.jpg",
+        "/Examenparcial/assets/template/assets/img/portfolio/thumbnails/3.jpg",
+        "/Examenparcial/assets/template/assets/img/portfolio/thumbnails/4.jpg",
+        "/Examenparcial/assets/template/assets/img/portfolio/thumbnails/5.jpg",
+        "/Examenparcial/assets/template/assets/img/portfolio/thumbnails/6.jpg",
+        "/Examenparcial/media/bg-masthead-F66EQKJR.jpg"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/template/assets/img/bg-masthead.jpg": "2dd96931bb61b41b4fef33c9370c956cc4bc1908",
-    "/assets/template/assets/img/portfolio/fullsize/1.jpg": "baf937a072fae4124379f675a1e9a3bdf543bca1",
-    "/assets/template/assets/img/portfolio/fullsize/2.jpg": "98af5ab11e41a766a5be21f4a36cfa91f921c7d1",
-    "/assets/template/assets/img/portfolio/fullsize/3.jpg": "2ecbf4bb300ce1c2b3db7975e5b920a8bc0a2a73",
-    "/assets/template/assets/img/portfolio/fullsize/4.jpg": "c7957f5caba95624a866268873441c84fa80fab7",
-    "/assets/template/assets/img/portfolio/fullsize/5.jpg": "26ec2cfe1c03f44e4a0009bda5bc97cc9fef25ac",
-    "/assets/template/assets/img/portfolio/fullsize/6.jpg": "3eeeed59320dff63adde7a35764a84e67bcb3610",
-    "/assets/template/assets/img/portfolio/thumbnails/1.jpg": "baf937a072fae4124379f675a1e9a3bdf543bca1",
-    "/assets/template/assets/img/portfolio/thumbnails/2.jpg": "98af5ab11e41a766a5be21f4a36cfa91f921c7d1",
-    "/assets/template/assets/img/portfolio/thumbnails/3.jpg": "2ecbf4bb300ce1c2b3db7975e5b920a8bc0a2a73",
-    "/assets/template/assets/img/portfolio/thumbnails/4.jpg": "c7957f5caba95624a866268873441c84fa80fab7",
-    "/assets/template/assets/img/portfolio/thumbnails/5.jpg": "26ec2cfe1c03f44e4a0009bda5bc97cc9fef25ac",
-    "/assets/template/assets/img/portfolio/thumbnails/6.jpg": "3eeeed59320dff63adde7a35764a84e67bcb3610",
-    "/index.csr.html": "d72c4bd2ed1bf1e1d76d345c26b53b5e68aad604",
-    "/index.html": "ec4085854a3f852dfbcd58a741686d8e8376ca04",
-    "/main-M5YQUVOC.js": "c10a63a39cdf07d7dbbe4c9847b7e89db20c93d8",
-    "/media/bg-masthead-F66EQKJR.jpg": "2dd96931bb61b41b4fef33c9370c956cc4bc1908",
-    "/scripts-AO3MKTRD.js": "38222ed7bbad6611e30cd34d3c374b4cace2ba21",
-    "/styles-7Z2SP6DJ.css": "d855caee720aac13b3e7366797f04b79e183fd36"
+    "/Examenparcial/assets/template/assets/img/bg-masthead.jpg": "2dd96931bb61b41b4fef33c9370c956cc4bc1908",
+    "/Examenparcial/assets/template/assets/img/portfolio/fullsize/1.jpg": "baf937a072fae4124379f675a1e9a3bdf543bca1",
+    "/Examenparcial/assets/template/assets/img/portfolio/fullsize/2.jpg": "98af5ab11e41a766a5be21f4a36cfa91f921c7d1",
+    "/Examenparcial/assets/template/assets/img/portfolio/fullsize/3.jpg": "2ecbf4bb300ce1c2b3db7975e5b920a8bc0a2a73",
+    "/Examenparcial/assets/template/assets/img/portfolio/fullsize/4.jpg": "c7957f5caba95624a866268873441c84fa80fab7",
+    "/Examenparcial/assets/template/assets/img/portfolio/fullsize/5.jpg": "26ec2cfe1c03f44e4a0009bda5bc97cc9fef25ac",
+    "/Examenparcial/assets/template/assets/img/portfolio/fullsize/6.jpg": "3eeeed59320dff63adde7a35764a84e67bcb3610",
+    "/Examenparcial/assets/template/assets/img/portfolio/thumbnails/1.jpg": "baf937a072fae4124379f675a1e9a3bdf543bca1",
+    "/Examenparcial/assets/template/assets/img/portfolio/thumbnails/2.jpg": "98af5ab11e41a766a5be21f4a36cfa91f921c7d1",
+    "/Examenparcial/assets/template/assets/img/portfolio/thumbnails/3.jpg": "2ecbf4bb300ce1c2b3db7975e5b920a8bc0a2a73",
+    "/Examenparcial/assets/template/assets/img/portfolio/thumbnails/4.jpg": "c7957f5caba95624a866268873441c84fa80fab7",
+    "/Examenparcial/assets/template/assets/img/portfolio/thumbnails/5.jpg": "26ec2cfe1c03f44e4a0009bda5bc97cc9fef25ac",
+    "/Examenparcial/assets/template/assets/img/portfolio/thumbnails/6.jpg": "3eeeed59320dff63adde7a35764a84e67bcb3610",
+    "/Examenparcial/index.csr.html": "5125fe927f450684f6852feedda177980633dbc8",
+    "/Examenparcial/index.html": "98319cee456a14b5059a09a77ecdfd922fd2befa",
+    "/Examenparcial/main-M5YQUVOC.js": "c10a63a39cdf07d7dbbe4c9847b7e89db20c93d8",
+    "/Examenparcial/media/bg-masthead-F66EQKJR.jpg": "2dd96931bb61b41b4fef33c9370c956cc4bc1908",
+    "/Examenparcial/scripts-AO3MKTRD.js": "38222ed7bbad6611e30cd34d3c374b4cace2ba21",
+    "/Examenparcial/styles-7Z2SP6DJ.css": "d855caee720aac13b3e7366797f04b79e183fd36"
   },
   "navigationUrls": [
     {
